@@ -1,0 +1,24 @@
+.App{
+  width:100%;
+  height:auto;
+}
+
+/* .addForm{
+  display:'flex';
+  justify-content: center;
+  align-items: center;
+  border: 2ps dashed #1475cf;
+  cursor:'pointer';
+  border-radius:5px;
+} */
+
+.dropzone{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+  height:200px;
+  border:4px dashed blue;
+  /* padding:10px; */
+
+}
