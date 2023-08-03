@@ -74,9 +74,7 @@ function submit(e){
             <BiCloudUpload style={{fontSize:'116px',color:'blue',opacity:'0.3'}}/>
 
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
-        {/* <Form.Label>Choose a Image:</Form.Label> */}
         <Form.Control type="file" onChange={handleChange} name={image}  value={image.image} 
-        // onDrag={onDrag} onDragOver={onDragOver} onDragLeave={onDragLeave}
         />
       </Form.Group>
       </div>

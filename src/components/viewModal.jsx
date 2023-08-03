@@ -41,7 +41,7 @@ function Examples({image,id, ele}) {
         <Modal.Body>
         <img src={imageCicked} alt='imageCicked' style={{width:'100%',height:'620px'}}></img>
      
-                    
+                  
             
         </Modal.Body>
       </Modal>
