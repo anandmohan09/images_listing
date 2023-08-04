@@ -57,6 +57,8 @@ function App() {
         <Row>
         {
           image.map((ele,id)=>{
+
+            // hdjdkjdkdjhdhdh
             return (
               <Col md={3} style={{marginTop:"20px"}}>
               <Card style={{ width: "19rem",height:'300px' }}>
